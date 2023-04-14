@@ -14,7 +14,7 @@ $ npm run i
 ## Warning
 1. I'm not your support team and I didn't published this to help kids for free (DMing me for help = ban & block)
 2. Tele @jaemin1508
-3. Discord promise#01234 (1068637064167440407)
+3. Discord promise#0123 (1068637064167440407)
 4. Also I forgot to upload auth.js so make sure to download it again
 
 ## Usage
