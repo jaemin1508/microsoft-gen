@@ -1,0 +1,11 @@
+{
+    "address": {
+        "line1": "1",
+        "city": "1",
+        "region": "1",
+        "postal_code": "1234"
+    },
+    "attemptsPerAccount": 5,
+    "delay": 5000,
+    "hotmailbox": ""
+}
