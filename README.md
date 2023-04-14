@@ -1,7 +1,7 @@
 # microsoft gen
 A tool made to automate purchase from xbox.com
 <br />
-Also buy vccs from me discord.gg/dHYFkXXP46
+Also buy vccs from me https://discord.gg/dHYFkXXP46
 
 ## Installation
 1. Install nodejs from https://nodejs.org (worked for me with 18.16.0 LTS ver)
