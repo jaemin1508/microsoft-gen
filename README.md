@@ -1,12 +1,12 @@
 #microsoft gen
 
 ## Installation
-1. Extract folder
-2. Run
+1. Install nodejs from https://nodejs.org (worked for me with 18.16.0 LTS ver)
+2. Extract folder
+3. Run
 ```
 $ npm run i
 ```
-3. 
 
 ## Usage
 Put bins into bins.txt
