@@ -10,10 +10,10 @@ $ npm run i
 ```
 
 ## Warning
-I'm not your support team and I didn't published this to help kids for free
-Tele @jaemin1508
-Discord promise#01234 (1068637064167440407)
-Also I forgot to upload auth.js so make sure to download it again
+1. I'm not your support team and I didn't published this to help kids for free (DMing me for help = ban & block)
+2. Tele @jaemin1508
+3. Discord promise#01234 (1068637064167440407)
+4. Also I forgot to upload auth.js so make sure to download it again
 
 ## Usage
 Put bins into bins.txt
