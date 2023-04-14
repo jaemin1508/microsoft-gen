@@ -1,4 +1,5 @@
-#microsoft gen
+# microsoft gen
+A tool made to automate purchase from xbox.com
 
 ## Installation
 1. Install nodejs from https://nodejs.org (worked for me with 18.16.0 LTS ver)
